@@ -45,11 +45,6 @@ Becoming a Professional Backend Engineer focused on scalable systems & cloud tec
 <img height="169em" src="https://github-readme-streak-stats.herokuapp.com/?user=Vijay-kumar10&theme=radical">
 </div><br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay-kumar10&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-![](https://github-readme-stats.vercel.app/api?username=Vijay-kumar10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vijay-kumar10&theme=dark&hide_border=false)
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
